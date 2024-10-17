@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-17.10\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9747F12C-5C82-4EEB-B0C2-9A03CA3D5AAD}|ConsoleApp1.csproj|c:\\users\\izafe\\onedrive\\desktop\\day-17.10\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9747F12C-5C82-4EEB-B0C2-9A03CA3D5AAD}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9747F12C-5C82-4EEB-B0C2-9A03CA3D5AAD}|ConsoleApp1.csproj|c:\\users\\izafe\\onedrive\\desktop\\day-17.10\\consoleapp1\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9747F12C-5C82-4EEB-B0C2-9A03CA3D5AAD}|ConsoleApp1.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9747F12C-5C82-4EEB-B0C2-9A03CA3D5AAD}|ConsoleApp1.csproj|c:\\users\\izafe\\onedrive\\desktop\\day-17.10\\consoleapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9747F12C-5C82-4EEB-B0C2-9A03CA3D5AAD}|ConsoleApp1.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9747F12C-5C82-4EEB-B0C2-9A03CA3D5AAD}|ConsoleApp1.csproj|c:\\users\\izafe\\onedrive\\desktop\\day-17.10\\consoleapp1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9747F12C-5C82-4EEB-B0C2-9A03CA3D5AAD}|ConsoleApp1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-17.10\\ConsoleApp1\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-17.10\\ConsoleApp1\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:39:49.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-17.10\\ConsoleApp1\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-17.10\\ConsoleApp1\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:39:07.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-17.10\\ConsoleApp1\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-17.10\\ConsoleApp1\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:38:43.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-17.10\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-17.10\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:56:04.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
